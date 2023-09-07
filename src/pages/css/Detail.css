@@ -1,0 +1,22 @@
+.detail1{
+    text-align: center;
+    align-items: center; 
+    margin-top: 50px;
+ }
+
+.detail2{
+   text-align: center;
+   align-items: center;
+   margin-top: 20px;
+   margin-bottom: 20px; 
+}
+
+.detail3{
+    text-align: left;
+    margin-left: 30px;
+}
+
+.detail4{
+  text-align: center;
+  align-items: center;
+}
